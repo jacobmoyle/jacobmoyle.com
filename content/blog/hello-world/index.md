@@ -4,11 +4,7 @@ date: "2020-04-17"
 description: "I'm sick with COVID 19, so I made a blog."
 ---
 
-_A man was sick and bored. So he built a staple of the internet._
-
 ![tom hanks punches the coronavisu](./tom-hanks-covid.jpg)
-
-###### _Glorious art by_ [@beeple_crap](https://www.instagram.com/p/B9qJr-ygqfL/)
 
 Here I am, dying slowly of [COVID 19](https://www.google.com/search?client=firefox-b-1-d&sxsrf=ALeKk02siRXkMdtYZpdwAUZYsPjy1t6F5Q%3A1584495405295&ei=LXtxXpfUEdOU-gSO2KHwDQ&q=covid+19+2020&oq=covid+19+2020&gs_l=psy-ab.3..0i324l3j0i8i30.3445.7121..7305...1.0..0.298.1713.2j2j5......0....1..gws-wiz.......35i39j0i131i10j0i10.h1oKC_qTeDY&ved=0ahUKEwjXnp-u8aLoAhVTip4KHQ5sCN4Q4dUDCAo&uact=5) - _kidding_ - looking for something to keep my mind off of the feeling off of my shredded, vibrating, generally unhappy lungs while abiding **"The Order"**.
 
@@ -18,11 +14,11 @@ So here's the first post, so I have something to work with. Look, I even added a
 
 ### Here's some stuff I'm enjoying:
 
+- [@beeple_crap](https://www.instagram.com/p/B9qJr-ygqfL/)
 - [A social distancing meme](https://twitter.com/SwiftOnSecurity/status/1240067056646664193)
 - [A popular COVID 19 article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) written before SF went on lockdown.
 - [SF lockdown restrictions](https://sf.gov/stay-home-except-essential-needs)
-- [Doja Cat 1](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ?si=gh5OilTnStqeFwzB_XSLPA)
-- [Doja Cat 2](https://www.youtube.com/watch?v=mXnJqYwebF8)
+- [Doja Cat - Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ?si=gh5OilTnStqeFwzB_XSLPA)
 
 Peace.
 

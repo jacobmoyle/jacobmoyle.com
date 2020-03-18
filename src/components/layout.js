@@ -63,7 +63,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         <a href="https://github.com/jacobmoyle">Github</a> |{" "}
         <a href="https://www.linkedin.com/in/jacobmoyle">LinkedIn</a> |{" "}
-        <a href="https://github.com/jacobmoyle/jacobmoyle.com/">Source Code</a>
+        <a href="https://github.com/jacobmoyle/jacobmoyle.com/">Source</a>
       </footer>
     </div>
   )
