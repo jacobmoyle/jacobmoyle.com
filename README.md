@@ -38,6 +38,10 @@ My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/
 
     The site is now running on [http://localhost:8000](http://localhost:8000/)!
 
+## 🧐 Notes to self.
+
+- [gatsby-remark-emoji support](https://github.com/matchilling/gatsby-remark-emojis/blob/master/emoji.md)
+
 ---
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
