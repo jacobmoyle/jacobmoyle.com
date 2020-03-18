@@ -8,13 +8,13 @@
   jacobmoyle.com
 </h1>
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Unibashedly copied from [overreacted.io](https://github.com/gaearon/overreacted.io).
+My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Unabashedly copied from [overreacted.io](https://github.com/gaearon/overreacted.io).
 
 ## 🚀 To run locally
 
 1.  **Clone locally.**
 
-    Use git cli to clone this repo.
+    Use git CLI to clone this repo.
 
     ```shell
     # clones the repo
