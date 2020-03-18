@@ -8,7 +8,7 @@
   jacobmoyle.com
 </h1>
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog).
+My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Unibashedly copied from [overreacted.io](https://github.com/gaearon/overreacted.io).
 
 ## 🚀 To run locally
 
