@@ -36,7 +36,7 @@ My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/
     npm start
     ```
 
-    The site is now running on `http://localhost:8000`!
+    The site is now running on [http://localhost:8000](http://localhost:8000/)!
 
 ---
 
