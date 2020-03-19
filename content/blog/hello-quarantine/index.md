@@ -22,6 +22,6 @@ So here's the first post, so I have something to work with. Look, I even added a
 - [SF lockdown restrictions](https://sf.gov/stay-home-except-essential-needs)
 - [Doja Cat - Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ?si=gh5OilTnStqeFwzB_XSLPA)
 
-Peace.
+I haven't left my apartment in 8 days.
 
 ![Hey Arnold in a banana outfit](./hey-arnold-banana.gif)
