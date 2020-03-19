@@ -4,7 +4,7 @@ date: "2020-04-17"
 description: "I'm sick with COVID 19, so I made a blog."
 ---
 
-At the time of writing this post, San Francisco does not have enough tests or medical staff to have every individual who needs/wants to get a test, to receive one. I've had two tele-doc appointments now. The Doc diagnosed me with "COVID like" symptoms and prescribed both an inhaler and a cough supresent to eased my cough. No fever, thankfully.
+At the time of writing this post, San Francisco does not have enough tests or medical staff to have every individual who needs/wants to get a test, to receive one. I've had two tele-doc appointments now. The Doc diagnosed me with "COVID like" symptoms and prescribed both an inhaler and a cough supresent. No fever, thankfully.
 
 ![tom hanks punches the coronavisu](./tom-hanks-covid.jpg)
 
