@@ -4,6 +4,8 @@ date: "2020-04-17"
 description: "I'm sick with COVID 19, so I made a blog."
 ---
 
+At the time of writing this post, San Francisco does not have enough tests or medical staff to have every individual who needs/wants to get a test, to receive one. I've had two tele-doc appointments now. The Doc diagnosed me with "COVID like" symptoms and prescribed both an inhaler and a cough supresent to eased my cough. No fever, thankfully.
+
 ![tom hanks punches the coronavisu](./tom-hanks-covid.jpg)
 
 Here I am, dying slowly of [COVID 19](https://www.google.com/search?client=firefox-b-1-d&sxsrf=ALeKk02siRXkMdtYZpdwAUZYsPjy1t6F5Q%3A1584495405295&ei=LXtxXpfUEdOU-gSO2KHwDQ&q=covid+19+2020&oq=covid+19+2020&gs_l=psy-ab.3..0i324l3j0i8i30.3445.7121..7305...1.0..0.298.1713.2j2j5......0....1..gws-wiz.......35i39j0i131i10j0i10.h1oKC_qTeDY&ved=0ahUKEwjXnp-u8aLoAhVTip4KHQ5sCN4Q4dUDCAo&uact=5) - _kidding_ - looking for something to keep my mind off of the feeling off of my shredded, vibrating, generally unhappy lungs while abiding **"The Order"**.
